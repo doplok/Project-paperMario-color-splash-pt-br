@@ -1,0 +1,306 @@
+{
+  "version": "1.0.0",
+  "game": "Paper Mario: Color Splash",
+  "region": "USA",
+  "title_id": "000500001F600A00",
+  "title_version": "16",
+  "language_replaced": "US_Final_English",
+  "message_files": 48,
+  "entries": 6940,
+  "files": [
+    {
+      "path": "content/messages/US_Final_English/B1.msbt.lz",
+      "original_sha256": "d7df0daf06e55a1ac81eebc7592c63f2d43882ec63f16658e7e1c57c1ae64a11",
+      "translated_sha256": "77c8846b80019623a251d1ed9b6ba5799ede8c4a0e0bdf83f596a26f0ec3d565",
+      "bytes": 4631
+    },
+    {
+      "path": "content/messages/US_Final_English/B2.msbt.lz",
+      "original_sha256": "5f2ec63fa478da7c46ccd7d4181e6fabe021be7ae7ad28ba345f7cc6d2ac8c36",
+      "translated_sha256": "c7b0464f97933b0ccd6af6bb2772bc231e2ee424766a45cff9b8f8c927d9a8ae",
+      "bytes": 12170
+    },
+    {
+      "path": "content/messages/US_Final_English/B3.msbt.lz",
+      "original_sha256": "e6dc9f3945fbf9a9f62d841b9bbf39129572b0841c820e7c946ea81530febf11",
+      "translated_sha256": "1f51c36e697cc18fda317888fa2888f3fcbe094f0dc590f69762d628fe126219",
+      "bytes": 10342
+    },
+    {
+      "path": "content/messages/US_Final_English/B4.msbt.lz",
+      "original_sha256": "a8f16b3e3a12f3fe952ac6ba7cdaf7dc7f50297a6eeef17a997ec13cf154e6b3",
+      "translated_sha256": "8d666955cbedeedf5f4fd5a91939a69302e14c8dfa34fac79452f381aea7cf75",
+      "bytes": 6735
+    },
+    {
+      "path": "content/messages/US_Final_English/BB.msbt.lz",
+      "original_sha256": "abf63c37dcdcf9f9f7d7ec2cb7b86a5346bf35c2fac63dde0456d465222b95e5",
+      "translated_sha256": "357abf21bb8eb1475f4591170ede9b0139192b0f180b68a482a3bac0f5a261af",
+      "bytes": 7585
+    },
+    {
+      "path": "content/messages/US_Final_English/BattleEnemy.msbt.lz",
+      "original_sha256": "d653a84ac78175facd0a17eab513838b6dd20b3ebaa44a1bc5fe1305caa7b113",
+      "translated_sha256": "d7c1eec220b7a296f7ae8f8f67b91bbba6ca6c6f19172e1a6d2ac4bbaba47034",
+      "bytes": 13378
+    },
+    {
+      "path": "content/messages/US_Final_English/CardHelp.msbt.lz",
+      "original_sha256": "3aa408324233cc8236f985ce2fefec5a0f55ee15a326ab7fb5909e5ceb05ddf0",
+      "translated_sha256": "60e04effd31c0050a1a810bd07dedd243ed2d9f01f1729e919e16aceb870f1ff",
+      "bytes": 10086
+    },
+    {
+      "path": "content/messages/US_Final_English/DR.msbt.lz",
+      "original_sha256": "0c547e852976638fff105cf887f0e7f8752470f02bd9194955751a8ecd948ab3",
+      "translated_sha256": "3170259b6647883163eebfdf31554757ead825c67abc1da8eda9b30f886dda91",
+      "bytes": 1009
+    },
+    {
+      "path": "content/messages/US_Final_English/Enemy.msbt.lz",
+      "original_sha256": "0ef8a6096aeccfc69030515dcff69678852db9549ac4716bffd4dfdaa41db0db",
+      "translated_sha256": "a3f0a3950efa902a75acfab603bce2d4e1e761237d4e3f5b20474e19475172b6",
+      "bytes": 3230
+    },
+    {
+      "path": "content/messages/US_Final_English/G1.msbt.lz",
+      "original_sha256": "85c25565f05034eb6539bea9d1a8190577c79d13d759323a376d2ecf6013eb78",
+      "translated_sha256": "eae4cc7b9c95e5e2f0601d9ac4cb4127b9c65646d144b040a010e76fc6ba0a01",
+      "bytes": 3163
+    },
+    {
+      "path": "content/messages/US_Final_English/G2.msbt.lz",
+      "original_sha256": "d477651ebaff9dc5a4b5a2b53bf855d05709754db1a5618ecdb9264550739f45",
+      "translated_sha256": "f8279f5752a14eeef84e6052a40e1d14e522b9dda51baebc040431c9af175d76",
+      "bytes": 8717
+    },
+    {
+      "path": "content/messages/US_Final_English/G3.msbt.lz",
+      "original_sha256": "089e76c94c17413687f54332231ce32c449546130e13d7fd7e9e5add657217b8",
+      "translated_sha256": "ba24b805ec12f741d5d527a5751676d8e80d0b67916a64f84600e28c2cfb0e22",
+      "bytes": 4509
+    },
+    {
+      "path": "content/messages/US_Final_English/G4.msbt.lz",
+      "original_sha256": "dd91e1fd6b10a236d0a1e3eee9eb9ed75f10663be814146c1c34221e1a9800e6",
+      "translated_sha256": "f70015b9f8b5f16aa9fe8fb6707723ef6f0e3d7f906e5bfab6c1d708088e37bc",
+      "bytes": 1500
+    },
+    {
+      "path": "content/messages/US_Final_English/GB.msbt.lz",
+      "original_sha256": "fabf1385c20282cb7fc2769bb1e3d9232e3fb2cc2b7a50b8fb77b37be0396b24",
+      "translated_sha256": "4f4e600e587a44e7451a74dd40a12d361db53f8b8e3dbcb214999508308ba2a2",
+      "bytes": 12814
+    },
+    {
+      "path": "content/messages/US_Final_English/Global.msbt.lz",
+      "original_sha256": "82b3b30c78e259902eac30bc6cf9d7d794183360ccc28f3b7e7cc85e3ae79fe5",
+      "translated_sha256": "e42a0d7197c7a39a5be9f9cbcce6f4a3b018c711bce5ffd0b039b9f8545e0d64",
+      "bytes": 8090
+    },
+    {
+      "path": "content/messages/US_Final_English/GlobalEvent.msbt.lz",
+      "original_sha256": "dab214c87bf803d98edf85e3e312efc880d82b17e96538c7f8072bee1444584d",
+      "translated_sha256": "cb7c08d0914e5ca08543f2e67b597e5af6764c598efbe446d33d49a4b9322bc5",
+      "bytes": 37784
+    },
+    {
+      "path": "content/messages/US_Final_English/ItemName.msbt.lz",
+      "original_sha256": "daf3bd7448c12ba2a21435bb812849c036130e1c7bfd00f92b9831681822b414",
+      "translated_sha256": "e0808fabb50f3c3a6b63d141ad66c535d5698266c93ca93a52fa9229798e27ae",
+      "bytes": 5590
+    },
+    {
+      "path": "content/messages/US_Final_English/JK.msbt.lz",
+      "original_sha256": "67e19d844aa97ce85c544a679415f62a8d03ecc813a0e2755711734ac7543240",
+      "translated_sha256": "3ca043cf0cb551081fd9b5245ebde264acb12720460df56ae2d9107fe5c33385",
+      "bytes": 12024
+    },
+    {
+      "path": "content/messages/US_Final_English/KP.msbt.lz",
+      "original_sha256": "6a67e288dd00b10d840f0e6a61c5c35885ec346c517d1a167e0507660d9cb0a0",
+      "translated_sha256": "f11d669cb3d0c76544a1dee136d5196385fbd28b09437f3735a588e641729d6d",
+      "bytes": 9545
+    },
+    {
+      "path": "content/messages/US_Final_English/O1.msbt.lz",
+      "original_sha256": "2c8cade7922686b393f42d2e4eeb97571434691b59ba2b1d9026f912676c9c59",
+      "translated_sha256": "3fcefedcba2387392a114540886db87678922f29b5a099d1b6967e774ee85788",
+      "bytes": 7424
+    },
+    {
+      "path": "content/messages/US_Final_English/O2.msbt.lz",
+      "original_sha256": "52a895ef201dc6135bf7fc81b0f37c2b463e57900ee5ded635c8b1f061e706aa",
+      "translated_sha256": "ed7fb0f0027bbdfc26506ad0d0fc3eb2b4c20e383be27f3c559cf0a7b87447ea",
+      "bytes": 4146
+    },
+    {
+      "path": "content/messages/US_Final_English/O3.msbt.lz",
+      "original_sha256": "3d7c1d435be65648ce6287397786f61ed221ad30a4dbb89e68e03f3097be6897",
+      "translated_sha256": "12ec6e01ac17fc2706cfc0edb4ddcc21c5519aa46f090b3084e6e6921611abcf",
+      "bytes": 8218
+    },
+    {
+      "path": "content/messages/US_Final_English/O4.msbt.lz",
+      "original_sha256": "a887f327812ceade15d32c5b5f533e16c6c2d3323038718590ac743c88f0427b",
+      "translated_sha256": "de74d6cdf5abfa711210e47cbf987f60503b948e55ce6adc2041e8862c93c981",
+      "bytes": 15684
+    },
+    {
+      "path": "content/messages/US_Final_English/OB.msbt.lz",
+      "original_sha256": "ccc0e99e12eb0b1f20b7295ee93449e6e427ace91e8e2beb7861bada154f35f6",
+      "translated_sha256": "c495fb1c7fef8f9723cfe5885690796ed9b1d7d7998af1a54fbac9ed09364fbf",
+      "bytes": 10672
+    },
+    {
+      "path": "content/messages/US_Final_English/R1.msbt.lz",
+      "original_sha256": "33562a8d68f1deb03e93351eb6639e1ab9b5d89eaf82a28430fff7376d66a11a",
+      "translated_sha256": "5972b2e71a555728bfe73542f0d04d8f969d115be0e777da827cf0869ab636a4",
+      "bytes": 6014
+    },
+    {
+      "path": "content/messages/US_Final_English/R2.msbt.lz",
+      "original_sha256": "b15ab841c18a48c33acc31e4eb3c4feb116f58da47454fec1cba04102a739d6a",
+      "translated_sha256": "e541e8b98771e4abab6b605eabd7f6d7fe4d8076b8599036352a7151468064f3",
+      "bytes": 7590
+    },
+    {
+      "path": "content/messages/US_Final_English/R3.msbt.lz",
+      "original_sha256": "ed9c679b9c17cef4dcfecfe447fa2b0cc05f30c8dbfaf23aba411c7b99733a3e",
+      "translated_sha256": "f4f7b456a2b12842455cd9716f0ed8585b9a8ccca95e459fd6b147e6d34546ec",
+      "bytes": 4006
+    },
+    {
+      "path": "content/messages/US_Final_English/R4.msbt.lz",
+      "original_sha256": "e1e4095ee50278716f2a05bcea33538f0e04c768cd662501b702e73a76353447",
+      "translated_sha256": "af1b2a7ff2e301929f8f923d8c405b11357aa674de760d82bbd475006cf1b02f",
+      "bytes": 3727
+    },
+    {
+      "path": "content/messages/US_Final_English/RB.msbt.lz",
+      "original_sha256": "b40d4c139927c72a40834f9e4362726ea86e92952155c7ac9b3cc7f26caebeaa",
+      "translated_sha256": "ab70f23ff75aa265882a1dec416ec5f2cac365d7dbd72f6df9e870b301c30203",
+      "bytes": 7623
+    },
+    {
+      "path": "content/messages/US_Final_English/RescueKinopio.msbt.lz",
+      "original_sha256": "2830399c08ac2e24f88615609827aa9ebdd45dba1beefe50fdd876eddc923985",
+      "translated_sha256": "66fc80cd753d30ce148987f8e2c54fed0d394ae5ff43aba73ab37c9ada9f0476",
+      "bytes": 3392
+    },
+    {
+      "path": "content/messages/US_Final_English/StaffCredit.msbt.lz",
+      "original_sha256": "c425157fe038ee626e04c0036e766918e9e923b4f12856e08b37d0c5768121ff",
+      "translated_sha256": "401ddc61482e620337e42d6bbf55f46063ff695939b76bc80590f0a35b984c10",
+      "bytes": 11034
+    },
+    {
+      "path": "content/messages/US_Final_English/SubStory.msbt.lz",
+      "original_sha256": "3f8001f922bcd6753aa5ed519d840ef36a61472b6ff46763cbd2303df9b1c9dd",
+      "translated_sha256": "532c7970c00c93abcc47ddfc58b0b47471bc0a998263fff4d2e9d96bd7736773",
+      "bytes": 5829
+    },
+    {
+      "path": "content/messages/US_Final_English/Town1.msbt.lz",
+      "original_sha256": "0cc5f75c47599b09130dc102da0e8c94011568158bac61a0b74021fb5cc0999d",
+      "translated_sha256": "dc9980900de450836325a914aa41b7ad4e0e737f0e81c9c11ed5febca44ddcb1",
+      "bytes": 34494
+    },
+    {
+      "path": "content/messages/US_Final_English/TownGallery.msbt.lz",
+      "original_sha256": "0c2c4437bf5e1b86e4e415ed4ac06a1d193b5da93ec5993768baa4b40e72d60f",
+      "translated_sha256": "dd1c28004a33f2332ba47086dccbde7931e0e2ed729eb2a82ebeda6529c361a3",
+      "bytes": 5210
+    },
+    {
+      "path": "content/messages/US_Final_English/TownGalleryDisplay.msbt.lz",
+      "original_sha256": "9fbf79f1fb074ef5abf4153239b3b4cd3b4fcdf8dd8488dee53b96261c2ad22a",
+      "translated_sha256": "227d6a0eb4a9036c97042880a32a975e31619ee8403cd5265fa0947e9218821c",
+      "bytes": 5291
+    },
+    {
+      "path": "content/messages/US_Final_English/TownInfo.msbt.lz",
+      "original_sha256": "4af8d763efa889e039b40fa967fb9c17382fac0681dbb618963496cecf78dac8",
+      "translated_sha256": "63bfb7144ade9c5edad317d8e82dec33a8498ed54efdeda561965095d619b66f",
+      "bytes": 10371
+    },
+    {
+      "path": "content/messages/US_Final_English/TownMR.msbt.lz",
+      "original_sha256": "4e614d47bb04393728ff260b8aa2a154804a12c09e5a777fc584da07c58f6837",
+      "translated_sha256": "ec7f30500b4dc10da097481f43750d2bb3a7df365ef8b917be39cec9fc041435",
+      "bytes": 4872
+    },
+    {
+      "path": "content/messages/US_Final_English/V1.msbt.lz",
+      "original_sha256": "99a04fe73c221ebaec0ef5b8c004272dcd4048f60241ee1c5b91ae6952595beb",
+      "translated_sha256": "ab5d4f0506142fb146eb8024f8f60117b6d96afdf019eec93be25df343b45081",
+      "bytes": 4018
+    },
+    {
+      "path": "content/messages/US_Final_English/V2.msbt.lz",
+      "original_sha256": "c8f363da1d2def7261f0ca7efcce4548efe346e61d03f5a8b2515868ccae848e",
+      "translated_sha256": "36f6d81a79a22e95b9e22f13c8e0cc11f1041fda5fc782b8f639b9209547016c",
+      "bytes": 10981
+    },
+    {
+      "path": "content/messages/US_Final_English/V3.msbt.lz",
+      "original_sha256": "fe1be9c9a69919f8bbcfa4a31e1a299203f30e1af00eee62b24d53614c601be8",
+      "translated_sha256": "4087ed2d394c44d82fbecd55f2c812829901e50fadfa7a48361ac3bfcebd66c8",
+      "bytes": 5774
+    },
+    {
+      "path": "content/messages/US_Final_English/V4.msbt.lz",
+      "original_sha256": "0719a777636d95ae97c0b6e399955f121c17c50b3e495f9290629f2b827a79cc",
+      "translated_sha256": "358cbec8b0e18e179ed8d67242d9d6b31a4abb951fa780735fdbb4c1aad05d28",
+      "bytes": 5336
+    },
+    {
+      "path": "content/messages/US_Final_English/VB.msbt.lz",
+      "original_sha256": "935cd84e5e55376302779873a740a7c560ad14a79c595d60ce49f499f79732bc",
+      "translated_sha256": "2bf000ee2f40a15815c003684e83662cb6c4d6fc5eab1bab03e68dfe65a2eea8",
+      "bytes": 7074
+    },
+    {
+      "path": "content/messages/US_Final_English/WorldMap.msbt.lz",
+      "original_sha256": "1ead0927115332c44a074432d324fd7ee6f285802963871c15454caff8700759",
+      "translated_sha256": "9dd79b29a017be9750634740b4a20d76dca07988ae7f1300bb65b2c2a5cf6e6a",
+      "bytes": 1604
+    },
+    {
+      "path": "content/messages/US_Final_English/Y1.msbt.lz",
+      "original_sha256": "04b3df69f55ea48a4a1a86acf996d49d9dbf04c4da8f5aaf18ea223f914467d7",
+      "translated_sha256": "a9818e026107587d600169e2317a67e03775ef0a74b6746921b0c360c3a7c615",
+      "bytes": 6600
+    },
+    {
+      "path": "content/messages/US_Final_English/Y2.msbt.lz",
+      "original_sha256": "99c7d4e8cd241e3cfa9409cc0a64a88dd90a3511a664b58f663e5418f1b879d1",
+      "translated_sha256": "9ae6859271706e7cea976d95b54b7fa588d9749a648ba5852b5195b187a2f352",
+      "bytes": 3334
+    },
+    {
+      "path": "content/messages/US_Final_English/Y3.msbt.lz",
+      "original_sha256": "c29985aa1669e2a9145e8835b52c599f3070b3680017a0c6614060523d5d3aab",
+      "translated_sha256": "f7dbc9d8f3aa01c60c2c2dfefb3985280603ff7a7ca4f935c8a87c32afc66d68",
+      "bytes": 3535
+    },
+    {
+      "path": "content/messages/US_Final_English/Y4.msbt.lz",
+      "original_sha256": "1d99eb7e83573f6e27eb7a282539ff2615fae64c30522ab30fb51fa835e405db",
+      "translated_sha256": "accea60b08ec1d4dd4e82ee07a70391e38e42211c8d1ebb2051dccff6bcb89a7",
+      "bytes": 8430
+    },
+    {
+      "path": "content/messages/US_Final_English/YB.msbt.lz",
+      "original_sha256": "161a204ed744f607f521213ba22f87c230b10fb6c3a399e43f9a112f40d4c93c",
+      "translated_sha256": "1ffef801264cf6ba993648e5d7845a5e10e7159927b9aa68937d59b6794dc096",
+      "bytes": 9353
+    },
+    {
+      "path": "content/fs.table",
+      "original_sha256": "20fe731d97636c98b899cecc2fa73aa2e82052bc7334e61c3191b087d0be31aa",
+      "translated_sha256": "e0c307d3e93072f63613ce184d4987c132321a634fee7a82028db98f2cba03f4",
+      "bytes": 497685
+    }
+  ]
+}
